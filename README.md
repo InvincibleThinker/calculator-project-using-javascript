@@ -1,3 +1,3 @@
 # calculator-project-using-javascript
-this is my first project in javascript I hope this will help
-you to do 
+
+you can try the calculator here https://invinciblethinker.github.io/calculator-project-using-javascript/calculator%20project/
